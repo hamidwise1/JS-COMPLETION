@@ -1,0 +1,27 @@
+{
+  "name": "js-completion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compileSass": "npx sass --watch sass:style"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamidwise1/JS-COMPLETION.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamidwise1/JS-COMPLETION/issues"
+  },
+  "homepage": "https://github.com/hamidwise1/JS-COMPLETION#readme",
+  "devDependencies": {
+    "@types/jquery": "^3.5.14",
+    "sass": "^1.50.0"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
